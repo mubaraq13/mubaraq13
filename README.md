@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="./profile-card.svg" width="100%" alt="Mubaraq - Full Stack Developer and Data Enthusiast"/>
-
 <br/>
 
 <a href="https://github.com/mubaraq13">
