@@ -35,7 +35,7 @@ Like a shinobi who sees beyond the surface, I enjoy exploring technologies, unde
 
 ---
 
-## 🔴 My Shinobi Arsenal
+## 🔴 My Jutsu Collection
 
 ### ⚔️ Full Stack Development
 
