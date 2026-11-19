@@ -95,23 +95,6 @@ mubaraq = ShinobiDeveloper()
 - [ ] Build more data-driven applications
 
 ---
-
-## 📊 Shinobi Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mubaraq13&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=E63946&icon_color=E63946&text_color=FFFFFF&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubaraq13&layout=compact&theme=dark&bg_color=0D0D0D&title_color=E63946&text_color=FFFFFF&hide_border=true" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=mubaraq13&theme=dark&background=0D0D0D&ring=E63946&fire=E63946&currStreakLabel=E63946&hide_border=true" />
-
-</div>
-
----
-
 ## 🩸 Connect With Me
 
 <div align="center">
