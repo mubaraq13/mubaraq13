@@ -54,7 +54,7 @@ Beyond web development, I have a strong interest in **Data Science & Data Analyt
 
 ## 🧰 Tech Stack & Tools
 
-### 🎨 Frontend Development
+### 💻 Web Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-0A1628?style=for-the-badge&logo=html5&logoColor=D4AF37" alt="HTML5" />
@@ -63,11 +63,6 @@ Beyond web development, I have a strong interest in **Data Science & Data Analyt
   <img src="https://img.shields.io/badge/TypeScript-0A1628?style=for-the-badge&logo=typescript&logoColor=D4AF37" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0A1628?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Next.js-0A1628?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37" alt="Next.js" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
   <img src="https://img.shields.io/badge/PHP-0A1628?style=for-the-badge&logo=php&logoColor=D4AF37" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-0A1628?style=for-the-badge&logo=laravel&logoColor=D4AF37" alt="Laravel" />
 </p>
@@ -130,8 +125,6 @@ I'm always open to connecting with developers, exchanging ideas, collaborating o
   <p>
     <i>Building with passion. Learning with purpose. Creating with impact.</i>
   </p>
-
-  <img src="https://img.shields.io/badge/LEARN-BUILD-0A1628?style=flat-square&labelColor=0A1628&color=D4AF37" />
 
   <h3>✦ Thanks for visiting my profile! ✦</h3>
 
