@@ -1,96 +1,142 @@
-&lt;div align="center"&gt;
-  &lt;img src="./banner.svg" alt="Mubaraq — Fullstack Developer banner" width="100%" /&gt;
 
-  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=620&lines=Fullstack+Developer;Building+with+Next.js+%26+Laravel;Data+Science+%26+Analytics;Turning+Data+Into+Insights" alt="Typing SVG" /&gt;
-&lt;/div&gt;
+<div align="center">
 
----
+# ✦ MUBARAQ
 
-### 👨‍💻 About Me
+### FULLSTACK DEVELOPER · DATA SCIENCE ENTHUSIAST
 
-Fullstack developer who enjoys building end-to-end web applications — from pixel-perfect frontends to solid backends. Also passionate about **Data Science & Data Analytics**, turning raw data into actionable insights.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Fullstack+Developer;Building+with+Next.js+%26+Laravel;Data+Science+%26+Analytics;Turning+Data+Into+Insights" alt="Typing SVG" />
+</p>
 
-- 💻 Focused on **fullstack web development**
-- 🎨 Frontend: **HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Next.js**
-- ⚙️ Backend: **PHP, Laravel**
-- 🗄️ Database: **SQL** (MySQL, PostgreSQL, SQLite) & **NoSQL** (MongoDB)
-- 📊 Also exploring **Data Science & Data Analytics** with **Python** and **R**
-- 🌱 Always learning, experimenting, and improving one project at a time
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-FULLSTACK%20DEVELOPMENT-D4AF37?style=flat-square&labelColor=0A1628" />
+  <img src="https://img.shields.io/badge/INTEREST-DATA%20SCIENCE-D4AF37?style=flat-square&labelColor=0A1628" />
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-D4AF37?style=flat-square&labelColor=0A1628" />
+</p>
 
----
+<p>
+  <a href="https://github.com/mubaraq13">
+    <img src="https://img.shields.io/badge/GitHub-mubaraq13-D4AF37?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0A1628" alt="GitHub Profile" />
+  </a>
+</p>
 
-### 🎯 Current Focus
-
-| Area              | What I'm Working On                                          |
-| ----------------- | ------------------------------------------------------------ |
-| Frontend          | Modern UI with Tailwind CSS & Next.js, TypeScript             |
-| Backend           | REST APIs, auth, and business logic with Laravel & PHP        |
-| Database          | SQL & NoSQL modeling, queries, and optimization               |
-| Data Science      | Data cleaning, EDA, statistics, and ML fundamentals           |
-| Data Analytics    | Insight generation with Python & R                            |
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## 👨‍💻 About Me
 
-**Frontend**
+I'm a **Fullstack Developer** passionate about building modern, scalable, and user-friendly web applications — from pixel-perfect interfaces to robust backend systems.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+Beyond web development, I have a strong interest in **Data Science & Data Analytics**, exploring how data can be transformed into meaningful insights and better decisions.
 
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Data Science & Analytics**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-&gt; These represent my learning path and interests, not expert-level proficiency.
+- 💻 Focused on **Fullstack Web Development**
+- 🎨 Frontend: HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Next.js
+- ⚙️ Backend: PHP and Laravel
+- 🗄️ Database: MySQL, PostgreSQL, SQLite, MongoDB
+- 📊 Data Science & Analytics: Python, R, Jupyter, Pandas
+- 🌱 Continuously learning, experimenting, and building new things
 
 ---
 
-### 📈 GitHub Analytics
+## 🎯 Current Focus
 
-&lt;div align="center"&gt;
-  &lt;img height="165" src="https://github-readme-stats.vercel.app/api?username=mubaraq13&show_icons=true&hide_border=true&bg_color=0A1628&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9" alt="Mubaraq's GitHub stats" /&gt;
-  &lt;img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubaraq13&layout=compact&hide_border=true&bg_color=0A1628&title_color=D4AF37&text_color=C9D1D9&langs_count=8" alt="Mubaraq's top languages" /&gt;
-&lt;/div&gt;
+| Area | Current Focus |
+|:---|:---|
+| 🎨 Frontend | Modern interfaces using Next.js, TypeScript & Tailwind CSS |
+| ⚙️ Backend | REST APIs, authentication & business logic with Laravel |
+| 🗄️ Database | SQL & NoSQL database modeling and optimization |
+| 📊 Data Science | Data cleaning, EDA, statistics & ML fundamentals |
+| 📈 Data Analytics | Extracting meaningful insights using Python & R |
 
 ---
 
-### 🤝 Let's Connect
+## 🧰 Tech Stack & Tools
 
-I'm always happy to connect and exchange ideas about fullstack development, databases, Python, R, and data.
+### 🎨 Frontend Development
 
-[![GitHub](https://img.shields.io/badge/GitHub-mubaraq13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mubaraq13)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0A1628?style=for-the-badge&logo=html5&logoColor=D4AF37" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0A1628?style=for-the-badge&logo=css3&logoColor=D4AF37" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0A1628?style=for-the-badge&logo=javascript&logoColor=D4AF37" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0A1628?style=for-the-badge&logo=typescript&logoColor=D4AF37" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0A1628?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Next.js-0A1628?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37" alt="Next.js" />
+</p>
 
-&lt;div align="center"&gt;
+### ⚙️ Backend Development
 
-*💡 Learn. Build. Analyze. Repeat.*
+<p>
+  <img src="https://img.shields.io/badge/PHP-0A1628?style=for-the-badge&logo=php&logoColor=D4AF37" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-0A1628?style=for-the-badge&logo=laravel&logoColor=D4AF37" alt="Laravel" />
+</p>
 
-**Thanks for stopping by! 💙**
+### 🗄️ Database & Storage
 
-&lt;/div&gt;
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0A1628?style=for-the-badge&logo=mysql&logoColor=D4AF37" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A1628?style=for-the-badge&logo=postgresql&logoColor=D4AF37" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0A1628?style=for-the-badge&logo=mongodb&logoColor=D4AF37" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-0A1628?style=for-the-badge&logo=sqlite&logoColor=D4AF37" alt="SQLite" />
+</p>
+
+### 📊 Data Science & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0A1628?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
+  <img src="https://img.shields.io/badge/R-0A1628?style=for-the-badge&logo=r&logoColor=D4AF37" alt="R" />
+  <img src="https://img.shields.io/badge/Jupyter-0A1628?style=for-the-badge&logo=jupyter&logoColor=D4AF37" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Pandas-0A1628?style=for-the-badge&logo=pandas&logoColor=D4AF37" alt="Pandas" />
+</p>
+
+### 🛠️ Tools & Environment
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0A1628?style=for-the-badge&logo=git&logoColor=D4AF37" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0A1628?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vercel-0A1628?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Vercel" />
+</p>
+
+> These technologies represent my learning journey and interests, not necessarily expert-level proficiency.
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mubaraq13&show_icons=true&hide_border=true&bg_color=0A1628&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9&rank_icon=github" alt="Mubaraq's GitHub Stats" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubaraq13&layout=compact&hide_border=true&bg_color=0A1628&title_color=D4AF37&text_color=C9D1D9&langs_count=8" alt="Mubaraq's Top Languages" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with developers, exchanging ideas, collaborating on projects, and learning new technologies.
+
+<div align="center">
+
+  <a href="https://github.com/mubaraq13">
+    <img src="https://img.shields.io/badge/GitHub-mubaraq13-D4AF37?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0A1628" alt="GitHub" />
+  </a>
+
+  <br />
+
+  <p>
+    <i>Building with passion. Learning with purpose. Creating with impact.</i>
+  </p>
+
+  <img src="https://img.shields.io/badge/LEARN-BUILD-0A1628?style=flat-square&labelColor=0A1628&color=D4AF37" />
+
+  <h3>✦ Thanks for visiting my profile! ✦</h3>
+
+  <p>
+    <sub>Designed with a passion for technology · Navy & Gold Edition</sub>
+  </p>
+
+</div>
