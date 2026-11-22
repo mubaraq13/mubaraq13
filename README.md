@@ -3,16 +3,16 @@
 
 # ✦ MUBARAQ
 
-### FULLSTACK DEVELOPER · DATA SCIENCE ENTHUSIAST
+### DATA ANALYST · ASPIRING DATA SCIENTIST
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Fullstack+Developer;Building+with+Next.js+%26+Laravel;Data+Science+%26+Analytics;Turning+Data+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Exploring+Data+Science+%26+Machine+Learning;Turning+Raw+Data+Into+Insights;Exploring+Python%2C+R+%26+SQL;Building+Data-Driven+Solutions" alt="Typing SVG" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/FOCUS-FULLSTACK%20DEVELOPMENT-D4AF37?style=flat-square&labelColor=0A1628" />
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-D4AF37?style=flat-square&labelColor=0A1628" />
   <img src="https://img.shields.io/badge/INTEREST-DATA%20SCIENCE-D4AF37?style=flat-square&labelColor=0A1628" />
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-D4AF37?style=flat-square&labelColor=0A1628" />
+  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20LEARNING-D4AF37?style=flat-square&labelColor=0A1628" />
 </p>
 
 <p>
@@ -27,32 +27,56 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Fullstack Developer** passionate about building modern, scalable, and user-friendly web applications — from pixel-perfect interfaces to robust backend systems.
+I'm an aspiring **Data Analyst and Data Scientist** with a strong interest in exploring data, discovering patterns, and transforming raw information into meaningful insights.
 
-Beyond web development, I have a strong interest in **Data Science & Data Analytics**, exploring how data can be transformed into meaningful insights and better decisions.
+I enjoy working with data through cleaning, analysis, visualization, and statistical exploration. I'm also interested in understanding how machine learning can uncover deeper patterns and support data-driven decision-making.
 
-- 💻 Focused on **Fullstack Web Development**
-- 🎨 Frontend: HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Next.js
-- ⚙️ Backend: PHP and Laravel
-- 🗄️ Database: MySQL, PostgreSQL, SQLite, MongoDB
-- 📊 Data Science & Analytics: Python, R, Jupyter, Pandas
-- 🌱 Continuously learning, experimenting, and building new things
+Alongside my data journey, I have a background in **Fullstack Web Development**, which allows me to understand how technology and data can work together to build meaningful solutions.
+
+- 📊 Interested in **Data Analytics and Business Intelligence**
+- 🐍 Exploring data analysis using **Python and Pandas**
+- 📈 Interested in **Exploratory Data Analysis (EDA)** and data visualization
+- 🗄️ Working with **SQL databases** and data management
+- 🤖 Exploring **Statistics, Machine Learning, and Data Science**
+- 💻 Also experienced in web development with **Next.js and Laravel**
+- 🌱 Continuously learning and developing my analytical skills
 
 ---
 
 ## 🎯 Current Focus
 
-| Area | Current Focus |
+| Area | What I'm Exploring |
 |:---|:---|
-| 🎨 Frontend | Modern interfaces using Next.js, TypeScript & Tailwind CSS |
-| ⚙️ Backend | REST APIs, authentication & business logic with Laravel |
-| 🗄️ Database | SQL & NoSQL database modeling and optimization |
-| 📊 Data Science | Data cleaning, EDA, statistics & ML fundamentals |
-| 📈 Data Analytics | Extracting meaningful insights using Python & R |
+| 📊 Data Analytics | Data cleaning, data wrangling, EDA & insight generation |
+| 📈 Data Visualization | Exploring patterns and communicating insights |
+| 🐍 Python for Data | Pandas, data manipulation & analytical workflows |
+| 🗄️ SQL & Databases | Querying, filtering, joining & managing datasets |
+| 📐 Statistics | Descriptive statistics, distributions & fundamentals |
+| 🤖 Data Science | Machine learning concepts and predictive modeling |
+| 💻 Web Development | Building applications with Next.js & Laravel |
 
 ---
 
 ## 🧰 Tech Stack & Tools
+
+### 📊 Data Analytics & Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0A1628?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
+  <img src="https://img.shields.io/badge/R-0A1628?style=for-the-badge&logo=r&logoColor=D4AF37" alt="R" />
+  <img src="https://img.shields.io/badge/Pandas-0A1628?style=for-the-badge&logo=pandas&logoColor=D4AF37" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-0A1628?style=for-the-badge&logo=jupyter&logoColor=D4AF37" alt="Jupyter Notebook" />
+</p>
+
+### 🗄️ Database & Query Languages
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-0A1628?style=for-the-badge&logo=postgresql&logoColor=D4AF37" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-0A1628?style=for-the-badge&logo=mysql&logoColor=D4AF37" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A1628?style=for-the-badge&logo=postgresql&logoColor=D4AF37" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0A1628?style=for-the-badge&logo=mongodb&logoColor=D4AF37" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-0A1628?style=for-the-badge&logo=sqlite&logoColor=D4AF37" alt="SQLite" />
+</p>
 
 ### 💻 Web Development
 
@@ -67,24 +91,6 @@ Beyond web development, I have a strong interest in **Data Science & Data Analyt
   <img src="https://img.shields.io/badge/Laravel-0A1628?style=for-the-badge&logo=laravel&logoColor=D4AF37" alt="Laravel" />
 </p>
 
-### 🗄️ Database & Storage
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-0A1628?style=for-the-badge&logo=mysql&logoColor=D4AF37" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0A1628?style=for-the-badge&logo=postgresql&logoColor=D4AF37" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0A1628?style=for-the-badge&logo=mongodb&logoColor=D4AF37" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-0A1628?style=for-the-badge&logo=sqlite&logoColor=D4AF37" alt="SQLite" />
-</p>
-
-### 📊 Data Science & Analytics
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0A1628?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
-  <img src="https://img.shields.io/badge/R-0A1628?style=for-the-badge&logo=r&logoColor=D4AF37" alt="R" />
-  <img src="https://img.shields.io/badge/Jupyter-0A1628?style=for-the-badge&logo=jupyter&logoColor=D4AF37" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Pandas-0A1628?style=for-the-badge&logo=pandas&logoColor=D4AF37" alt="Pandas" />
-</p>
-
 ### 🛠️ Tools & Environment
 
 <p>
@@ -94,7 +100,7 @@ Beyond web development, I have a strong interest in **Data Science & Data Analyt
   <img src="https://img.shields.io/badge/Vercel-0A1628?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Vercel" />
 </p>
 
-> These technologies represent my learning journey and interests, not necessarily expert-level proficiency.
+> These technologies represent my current learning journey and interests. I'm continuously developing my skills through practice, experimentation, and projects.
 
 ---
 
@@ -112,7 +118,9 @@ Beyond web development, I have a strong interest in **Data Science & Data Analyt
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with developers, exchanging ideas, collaborating on projects, and learning new technologies.
+I'm always happy to connect with fellow data enthusiasts, developers, and technology professionals.
+
+I enjoy exchanging ideas about data analytics, Python, SQL, statistical analysis, data science, and technology.
 
 <div align="center">
 
@@ -123,13 +131,13 @@ I'm always open to connecting with developers, exchanging ideas, collaborating o
   <br />
 
   <p>
-    <i>Building with passion. Learning with purpose. Creating with impact.</i>
+    <i>Explore Data. Discover Insights. Build Intelligence.</i>
   </p>
 
-  <h3>✦ Thanks for visiting my profile! ✦</h3>
+  <h3>✦ Thanks for Visiting My Profile! ✦</h3>
 
   <p>
-    <sub>Designed with a passion for technology · Navy & Gold Edition</sub>
+    <sub>Driven by curiosity · Powered by data · Navy & Gold Edition</sub>
   </p>
 
 </div>
